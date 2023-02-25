@@ -1,0 +1,7 @@
+Boot xv6: 2 hours
+Sleep: 2 hours
+Pingpong 1 hour
+Find: 2 hours
+xargs: 3 hours
+-----------------------
+Total time: 10 hours
